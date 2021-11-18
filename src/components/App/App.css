@@ -1,0 +1,20 @@
+header {
+  font-size: 56px;
+}
+.App {
+  width: 90%;
+  margin: 1em auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+  background: #fff;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  margin: 0 10px;
+}
